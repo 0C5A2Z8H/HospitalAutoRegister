@@ -2,3 +2,11 @@ __debug_bin
 hospital-auto-register.*
 hospital-auto-register
 .DS_Store
+
+# IDE directories
+.vscode/
+.idea/
+
+# IDE directories in app package
+app/.vscode/
+app/.idea/
